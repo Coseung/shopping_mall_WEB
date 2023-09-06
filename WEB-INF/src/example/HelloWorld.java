@@ -2,6 +2,6 @@ package example;
 
 public class HelloWorld {
     public String hello() {
-        return "Hello World";
+        return " 네이스 Hello World";
     }
 }
