@@ -2,7 +2,7 @@
 <%@ page import="example.*" %>
 
 <footer class="container">
-	<p>&copy; 쇼핑몰 대표 : 이름, 고유번호 : 학번, 연락처 : 이메일 주소<br> 
+	<p>&copy; 쇼핑몰 대표 : 땅근마켓, 고유번호 : 20201027, 연락처 : 성결@성결<br> 
             
 
         <%

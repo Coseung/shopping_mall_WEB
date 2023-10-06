@@ -36,6 +36,14 @@
             </h3>
 		</div>
 	</div>
+    <style>
+        .display-4 {
+            
+            font-family: 'Black Han Sans', sans-serif;
+            color : #FF8C00; 
+        }
+    
+    </style>    
 <%
 	ArrayList<Product> listOfProducts = productDAO.getAllProducts(); // 리스트에 상품 전체 정보를 얻어온다.
 %> 	
