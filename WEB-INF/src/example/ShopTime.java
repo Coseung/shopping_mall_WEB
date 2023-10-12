@@ -5,7 +5,7 @@ public class ShopTime {
     public String timenow() {
        Date day = new java.util.Date();
         String am_pm;
-        int hour = day.getHours(); // 시간
+        int hour = day.getHours()+9; // 시간
         int minute = day.getMinutes(); // 분
         int second = day.getSeconds(); // 초
         if (hour / 12 == 0) {
