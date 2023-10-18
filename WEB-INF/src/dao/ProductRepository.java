@@ -17,9 +17,9 @@ public class ProductRepository{
 		phone.setDescription("4.7-inch, 1334X750 Renina HD display, 8-megapixel iSight Camera");
 		phone.setCategory("Smart Phone");
 		phone.setManufacturer("Apple");
-		phone.setUnitsInStock(1000);
+		phone.setUnitsInStock(1);
 		phone.setCondition("used");
-        phone.setFilename("P1234.png");
+        phone.setFilename("P1234.jpg");
 
         
         
@@ -30,7 +30,7 @@ public class ProductRepository{
 		shoes.setManufacturer("Nike");
 		shoes.setUnitsInStock(2);
 		shoes.setCondition("used");
-        shoes.setFilename("P1235.png");
+        shoes.setFilename("P1235.jpg");
 
         
         
@@ -41,7 +41,7 @@ public class ProductRepository{
 		Outer.setManufacturer("보세");
 		Outer.setUnitsInStock(1);
 		Outer.setCondition("used");
-        Outer.setFilename("P1236.png");
+        Outer.setFilename("P1236.jpg");
         
         
         
@@ -51,7 +51,7 @@ public class ProductRepository{
 		Windbreaker.setManufacturer("노스페이스");
 		Windbreaker.setUnitsInStock(1);
 		Windbreaker.setCondition("new");
-        Windbreaker.setFilename("P1237.png");
+        Windbreaker.setFilename("P1237.jpg");
         
         
         Product Chair = new Product("P1238", "의자", 40000);
@@ -60,7 +60,7 @@ public class ProductRepository{
 		Chair.setManufacturer("시디즈");
 		Chair.setUnitsInStock(1);
 		Chair.setCondition("used");
-        Chair.setFilename("P1238.png");
+        Chair.setFilename("P1238.jpg");
         
         
         Product Hoodie = new Product("P1239", "후드티", 20000);
@@ -69,7 +69,7 @@ public class ProductRepository{
 		Hoodie.setManufacturer("디스이즈네버뎃");
 		Hoodie.setUnitsInStock(1);
 		Hoodie.setCondition("used");
-        Hoodie.setFilename("P1239.png");
+        Hoodie.setFilename("P1239.jpg");
 
         
         listOfProducts.add(phone);

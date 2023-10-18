@@ -10,7 +10,11 @@ public class ShopTime {
         int second = day.getSeconds(); // 초
         if (hour / 12 == 0) {
             am_pm = "AM"; // 오전 판단
-        } else {
+        }
+        else if(hour ==12){
+            am_pm = "PM";
+        }
+        else {
             am_pm = "PM"; // 오후 판단
             hour = hour - 12;
         }

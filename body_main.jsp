@@ -58,7 +58,7 @@
                 <div class="card bg-dark text-white">
                 <img src="image/product/<%=product.getFilename()%>" class="card-img" alt="...">
                 <div class="card-img-overlay">
-                <h5 class="card-title">샘플</h5>
+                <h6 class="card-title">샘플</h6>
                 <p class="card-text">출처 : 구글 검색</p>
                 </div>
                 </div>
