@@ -53,7 +53,7 @@
 				for (int i = 0; i < listOfProducts.size(); i++) {
 					Product product = listOfProducts.get(i);
 			%>
-			<div class="col-md-4">ㄴ
+			<div class="col-md-4">
 
                 <div class="card bg-dark text-white">
                 <img src="image/product/<%=product.getFilename()%>" class="card-img" alt="...">

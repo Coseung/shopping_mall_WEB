@@ -16,7 +16,7 @@
 	</div>
     
     <div>
-        <a href ="./index.jsp">
+        <a href ="./index_ad.jsp">
         <img src="../image\MENU2.png" class="img-fluid" alt="main_image">
         </a>
     </div>
