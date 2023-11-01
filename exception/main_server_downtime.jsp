@@ -15,6 +15,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap" rel="stylesheet">
     <title>상품 상세 정보</title>
+    <link rel="stylesheet" type="text/css" href="font.css">
+
 </head>
 <body>
        <%@ include file="../top_banner.jsp" %>

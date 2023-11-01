@@ -3,6 +3,7 @@
 <%@ page import="dto.Product"%>
 
 <jsp:useBean id="productDAO" class="dao.ProductRepository" scope="session" />
+<link rel="stylesheet" type="text/css" href="font.css">
 
 
 

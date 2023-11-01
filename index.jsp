@@ -19,6 +19,8 @@
         <script>
             window.open("popup/popup1.jsp","popup", "wh=idth =365, height =250, left =0, top=0 ")
         </script>
+        <link rel="stylesheet" type="text/css" href="font.css">
+
 
     </head>
 <body>	<%-- JSP 주석 처리 --%>

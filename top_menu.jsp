@@ -23,11 +23,11 @@
     
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="./index.jsp">중고거래</a>
-            <a class="navbar-brand" href="./index.jsp">동네가게</a>
-            <a class="navbar-brand" href="./index.jsp">알바</a>
-            <a class="navbar-brand" href="./index.jsp">중고차 직거래</a>
-            <a class="navbar-brand" href="admin/index_ad.jsp">관리자모드</a>
+			<a class="navbar-brand" href="../index.jsp">중고거래</a>
+            <a class="navbar-brand" href="../index.jsp">동네가게</a>
+            <a class="navbar-brand" href="../index.jsp">알바</a>
+            <a class="navbar-brand" href="../index.jsp">중고차 직거래</a>
+            <a class="navbar-brand" href="../admin/index_ad.jsp">관리자모드</a>
 
 		</div>
 	</div>
