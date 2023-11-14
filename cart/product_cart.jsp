@@ -58,6 +58,8 @@
 				<td><%=product.getQuantity()%></td>
 				<td><%=total%></td>
 				<td><a href="product_cart_remove.jsp?id=<%=product.getProductId()%>" class="badge badge-danger">삭제</a></td>
+                <td align="right"><a href="../order/order_info.jsp?cartId=<%= cartId %>" class="btn btn-success">주문하기</a></td>
+
 			</tr>
 			<%
 				}

@@ -19,7 +19,7 @@
   </div>
 
 <div class="list-group">
-      <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
+      <a href="#" class="list-group-item list-group-item-action" aria-current="true">
         당신 근처 중고거래
       </a>
       <a href="#" class="list-group-item list-group-item-action">걸어서 10분 알바구하기</a>

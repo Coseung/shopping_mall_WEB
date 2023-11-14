@@ -9,6 +9,7 @@
         response.sendRedirect("../cart/product_cart.jsp");
         return;
     }
+
 	String id = request.getParameter("id");
 	if (id == null || id.trim().equals("")) {
 		response.sendRedirect("../product_detail.jsp");

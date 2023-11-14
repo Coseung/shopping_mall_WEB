@@ -50,18 +50,18 @@ function addToCart() {
 				<h4><%=product.getUnitPrice()%>원</h4>
                 
                 <p><form name=“addForm” action="../cart/product_cart_add.jsp?id=<%=product.getProductId()%>" method="post">
-                <a href="#" class="btn btn-info" onclick="addToCart()"> 상품 주문 &raquo;</a> 
-                <a href="./product_cart.jsp" class="btn btn-warning"> 장바구니 &raquo;</a>
+                <a href="#" class="btn btn-info" onclick="addToCart()"> 장바구니 추가 &raquo;</a> 
+                <a href="../cart/product_cart.jsp" class="btn btn-warning"> 장바구니 &raquo;</a>
                 </form>
 
         <div class="card bg-dark text-white">
-                            <img src="image/product/<%=product.getFilename()%>" class="card-img" alt="...">
+                            <img src="../image/product/<%=product.getFilename()%>" class="card-img" alt="...">
                             <div class="card-img-overlay">
                             <h5 class="card-title">상품 이미지 원본</h5>
                             <p class="card-text">출처 : 구글 검색</p>
                             </div>
                         </div>
-            <p><a href="index.jsp" class="btn btn-secondary"> 상품 목록 &raquo;</a>
+            <p><a href="#" class="btn btn-warning"> 상품 주문 &raquo;</a> <br><br> <a href="index.jsp" class="btn btn-secondary"> 상품 목록 &raquo;</a>
                 </div>
                 </div>
                 <hr>

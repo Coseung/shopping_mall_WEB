@@ -4,7 +4,9 @@ import java.util.Date; // 날짜 관련 정보 얻기
 public class ShopTime {
     public String timenow() {
        Date day = new java.util.Date();
+        
         String am_pm;
+        
         int hour = day.getHours()+9; // 시간
         int minute = day.getMinutes(); // 분
         int second = day.getSeconds(); // 초

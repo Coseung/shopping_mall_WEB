@@ -3,5 +3,8 @@
             font-family: 'Black Han Sans', sans-serif;
             /*color : #FF8C00;*/ 
 }
+.navbar-brand {
+    padding : 15PX;
+}
     
    
