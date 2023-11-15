@@ -11,7 +11,7 @@
   		</button>
     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
         <a class="dropdown-item" href="#">C</a>
-        생략….       
+             
      </div>
 	</div>
     
@@ -23,7 +23,7 @@
     
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="../index.jsp">중고거래</a>
+			<a class="navbar-brand" href="../index.jsp">상품목록(기본홈)</a>
             <a class="navbar-brand" href="../index.jsp">동네가게</a>
             <a class="navbar-brand" href="../index.jsp">알바</a>
             <a class="navbar-brand" href="../index.jsp">직거래</a>
