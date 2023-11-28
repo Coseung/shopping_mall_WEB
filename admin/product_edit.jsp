@@ -12,7 +12,7 @@
 <title>상품 편집</title>
     
 <script type="text/javascript">
-	function (id) {
+	function deleteConfirm(id) {
 		if (confirm("해당 상품을 삭제합니다!!") == true)
 		   location.href = "product_delete.jsp?id=" + id;
 		else
