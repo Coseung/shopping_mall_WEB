@@ -11,4 +11,7 @@
 ```
 ##23년 09월 06일 쇼핑몰 메인 페이지
 
-[index.jsp : 실행/수정 완료](https://github.com/dreamdp01/20201027_SERVLET/blob/main/index.jsp)
+[index.jsp : 실행/수정 완료](https://github.com/dreamdp01/20201027_SERVLET2/blob/main/index.jsp)
+
+##23년 11월 X일 쇼핑몰 상품 관리 페이지 추가
+
