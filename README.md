@@ -11,7 +11,20 @@
 ```
 ##23년 09월 06일 쇼핑몰 메인 페이지
 
-[index.jsp : 실행/수정 완료](https://github.com/dreamdp01/20201027_SERVLET2/blob/main/index.jsp)
+[index.jsp : 실행/수정 완료](https://github.com/dreamdp01/20201027_SERVLET/blob/main/index.jsp)
+
+##9주차 쇼핑몰 로그인 기능 추가, 문제 풀이 완료  
+[validaion.js(필터링 파일) : 추가 ](https://github.com/dreamdp01/20201027_SERVLET/blob/main/js/validation.js)
+[product_add.jsp : 수정완료 ](https://github.com/dreamdp01/20201027_SERVLET/blob/main/admin/product_add.jsp)
+[login.jsp: 생성](https://github.com/dreamdp01/20201027_SERVLET/blob/main/login/login.jsp)
+[관리자 페이지 룰 mange, 아이디 :admin, 패스워드:123654 ](https://github.com/dreamdp01/20201027_SERVLET/blob/main/WEB-INF/web.xml)
+
+
+##10주차 세션 및 장바구니 기능 추가, 문제 풀이 완료 
+[cart 폴더/ add, remove, remove_all.jsp 추가](https://github.com/dreamdp01/20201027_SERVLET/tree/main/cart)
+[10주차 문제 풀이 세션 삭제 후 뒤로가기-> 상품 선택 삭제 (에러)해결](https://github.com/dreamdp01/20201027_SERVLET/blob/main/cart/product_cart_remove.jsp)
+
+
 
 ##23년 11월 X일 쇼핑몰 상품 관리 페이지 추가
 

@@ -27,6 +27,5 @@
 	if (conn != null)
 		conn.close();
     response.sendRedirect("../admin/product_edit.jsp?edit=delete");
-   
  %>
 <!-- <a href ="../admin/product_edit.jsp"></a> -->
