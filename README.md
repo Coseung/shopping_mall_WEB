@@ -47,5 +47,11 @@
 [DB연결 파일 생성./db_conn.jsp](https://github.com/dreamdp01/20201027_SERVLET/blob/main/db/db_conn.jsp)
 
 
-##23년 11월 X일 쇼핑몰 상품 관리 페이지 추가
+##13주차 쇼핑몰 상품관리 페이지 추가, 문제 풀이 완료
+
+[상품 수정 삭제페이지](https://github.com/dreamdp01/20201027_SERVLET/blob/main/admin/product_edit.jsp)
+
+[상품 수정페이지](https://github.com/dreamdp01/20201027_SERVLET/blob/main/admin/product_update.jsp)
+
+[상품 삭제 js(문제 풀이)](https://github.com/dreamdp01/20201027_SERVLET/blob/main/admin/product_delete.jsp)
 
