@@ -14,6 +14,7 @@
 [index.jsp : 실행/수정 완료](https://github.com/dreamdp01/20201027_SERVLET/blob/main/index.jsp)
 
 ##9주차 쇼핑몰 로그인 기능 추가, 문제 풀이 완료  
+
 [validaion.js(필터링 파일) : 추가 ](https://github.com/dreamdp01/20201027_SERVLET/blob/main/js/validation.js)
 
 
@@ -35,12 +36,15 @@
 
 
 ##11주차 쇼핑몰 주문 처리 페이지 추가 
+
 [order 폴더 생성/ 주문 처리 파일](https://github.com/dreamdp01/20201027_SERVLET/tree/main/order)
 
 [11주차 문제 풀이 배송날짜입력, select 박스 국가 선택, 우편번호 주소api](https://github.com/dreamdp01/20201027_SERVLET/blob/main/order/order_info.jsp)
 
-[]()
 
+##12주차 쇼핑몰 상품 관리 페이지 추가, 데이터 베이스 관리자 비밀번호 변경 및 상품 추가
+
+[DB연결 파일 생성./db_conn.jsp](https://github.com/dreamdp01/20201027_SERVLET/blob/main/db/db_conn.jsp)
 
 
 ##23년 11월 X일 쇼핑몰 상품 관리 페이지 추가
