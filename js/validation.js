@@ -54,3 +54,7 @@ function CheckAddProduct() {
 
 	 document.newProduct.submit()
 }
+function CheckUser(){
+    location.href ="member_join_process.jsp?id=" + id +"password=" +password +"name=" +name +"gender="+ gender +"birth=" +birth +"mail=" +mail+"phone="+ phone +"address="+address;
+    document.newMember.submit()
+}

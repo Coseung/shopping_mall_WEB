@@ -80,6 +80,7 @@
 	newProduct.setCategory(category);
 	newProduct.setUnitsInStock(stock);
 	newProduct.setCondition(condition);
+
 	newProduct.setFilename(fileName);
 
 
