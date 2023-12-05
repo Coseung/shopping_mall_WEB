@@ -1,4 +1,7 @@
 <%@ page contentType="text/html;charset=utf-8" %>
+<%
+    String sessionID = (String) session.getAttribute("id"); 
+%>
 <style>
     .navbar-brand {
         color: black; /* 텍스트 색상을 검정색(#000000)으로 지정 */
@@ -25,8 +28,15 @@
 		<div class="navbar-header">
 			<a class="navbar-brand" href="../index.jsp">상품목록(기본홈)</a>
             <a class="navbar-brand" href="../index.jsp">동네가게</a>
-            <a class="navbar-brand" href="../member/member_join.jsp">회원가입</a>
-            <a class="navbar-brand" href="../login/login_user.jsp">로그인</a>
+            <% if (sessionID != null) { 
+            %>
+                <a class="navbar-brand" href="../login/logout.jsp">로그아웃</a>
+            <% } else { 
+            %>
+                <a class="navbar-brand" href="../member/member_join.jsp">회원가입</a>
+                <a class="navbar-brand" href="../login/login_user.jsp">로그인</a>
+            <% } 
+            %>
             <a class="navbar-brand" href="/BoardListAction.do?pageNum=1">게시판(고객센터)</a>
             <a class="navbar-brand" href="../admin/index_ad.jsp">관리자모드</a>
 

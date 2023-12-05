@@ -33,14 +33,14 @@
 					out.println("</div>");
 				}
 			%> 
-            <form class="form-signin" action="j_security_check" method="post">
+            <form class="form-signin" action="../login/login_user_check.jsp" method="post">
 			<div class="form-group">
 				<label for="inputUserName" class="sr-only">User Name</label> 
-				<input type="text" class="form-control" placeholder="ID" name='j_username' required autofocus>
+				<input type="text" class="form-control" placeholder="ID" name='id' required autofocus>
 			</div>
 			<div class="form-group">
 				<label for="inputPassword" class="sr-only">Password</label> 
-				<input  type="password" class="form-control" placeholder="Password" name='j_password' required>
+				<input  type="password" class="form-control" placeholder="Password" name='password' required>
 			</div>
 			<button class="btn btn btn-lg btn-success btn-block" type="submit">로그인</button>
             <a href="../member/member_join.jsp" class="btn btn btn-lg btn-success btn-block"> 회원가입</a>

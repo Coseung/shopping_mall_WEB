@@ -91,7 +91,7 @@
     var shippingDateInput = document.getElementById("shippingDateInput");
     var today = new Date();
     today.setDate(today.getDate() + 1); // 내일 날짜
-    const tomorrow = today.toISOString().substr(0, 10); // YYYY-MM-DD 형식
+    const tomorrow = today.toISOString().substr(0, 10); 
 
     shippingDateInput.min = tomorrow;
     </script>
