@@ -93,3 +93,15 @@
 
 [상품 삭제 js(문제 풀이)](https://github.com/dreamdp01/20201027_SERVLET/blob/main/admin/product_delete.jsp)
 
+##14주차 쇼핑몰 게시판 생성, 문제 풀이 
+
+[Board_dto.java, Board_dao.java: 생성 model부분](https://github.com/dreamdp01/20201027_SERVLET/tree/main/WEB-INF/src/mvc/model)
+
+[Board_controller.java: 생성 controller 부분](https://github.com/dreamdp01/20201027_SERVLET/tree/main/WEB-INF/src/mvc/controller)
+
+[board_list.jsp, board_writeform.jsp, board_view.jsp: 생성 view 부분](https://github.com/dreamdp01/20201027_SERVLET/tree/main/board)
+
+[login: 페이지 구현 ](https://github.com/dreamdp01/20201027_SERVLET/tree/main/login)
+
+[join: 페이지 구현](https://github.com/dreamdp01/20201027_SERVLET/tree/main/member)
+
