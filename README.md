@@ -9,9 +9,47 @@
 			     🌩 𝘼𝙣𝙮𝙤𝙣𝙚 𝙘𝙖𝙣 𝙙𝙚𝙫𝙚𝙡𝙤𝙥!
 └───────────────────────────────────────────────┘
 ```
+
+
+
+
+
+
 ##23년 09월 06일 쇼핑몰 메인 페이지
 
 [index.jsp : 실행/수정 완료](https://github.com/dreamdp01/20201027_SERVLET/blob/main/index.jsp)
+
+
+##3주차 forward 액션 태그 확인 완료
+
+[index.jsp](https://github.com/dreamdp01/20201027_SERVLET/blob/main/index.jsp)
+
+[popup1.jsp](https://github.com/dreamdp01/20201027_SERVLET/tree/main/popup)
+
+
+##5주차 쇼핑몰 상품 목록 페이지(이미지포함) 추가
+
+[productRepository.java: 상품클래스 저장](https://github.com/dreamdp01/20201027_SERVLET/blob/main/WEB-INF/src/dao/ProductRepository.java)
+
+[product.java: 상품 클래스 정의](https://github.com/dreamdp01/20201027_SERVLET/blob/main/WEB-INF/src/dto/Product.java)
+
+##6주차 쇼핑몰 상품 상세 페이지 추가
+
+[product_detail.jsp: 상품 상세 페이지 추가](https://github.com/dreamdp01/20201027_SERVLET/blob/main/product_detail.jsp)
+
+[product_not_found.jsp :에러페이지 추가](https://github.com/dreamdp01/20201027_SERVLET/blob/main/exception/product_not_found.jsp)
+
+
+##7주차 쇼핑몰 상품등록추가
+
+[product_add.jsp: 상품 등록 페이지 추가 ](https://github.com/dreamdp01/20201027_SERVLET/blob/main/admin/product_add.jsp)
+
+[product_add_process.jsp: 상품 정보 저장 페이지 추가](https://github.com/dreamdp01/20201027_SERVLET/blob/main/admin/product_add_process.jsp)
+
+[Product.java: 수정 ](https://github.com/dreamdp01/20201027_SERVLET/blob/main/WEB-INF/src/dto/Product.java)
+
+[ProductRepository.java: 수정 ](https://github.com/dreamdp01/20201027_SERVLET/blob/main/WEB-INF/src/dao/ProductRepository.java)
+
 
 ##9주차 쇼핑몰 로그인 기능 추가, 문제 풀이 완료  
 
